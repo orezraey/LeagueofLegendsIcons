@@ -1,2 +1,3 @@
 # LeagueofLegendsIcons
-Icons from League of Legends teams
+Ícones em SVG dos times de League of Legends ao redor do mundo. Estou utilizando eles para criar emojis no Telegram.
+https://t.me/EsportsIcons
